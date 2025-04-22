@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjnltt3756&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjnlt3756)](https://solved.ac/sjnlt3756/)
+
 ---
 
 ## 📫 연락처
@@ -32,8 +34,5 @@
 - Email: sjnltt3756@gmail.com
 - Blog: https://velog.io/@sjnltt3756/posts
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjnltt3756&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjnlt3756)](https://solved.ac/sjnlt3756/)  
 </div>
 
