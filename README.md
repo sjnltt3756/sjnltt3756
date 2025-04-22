@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjnltt3756&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjnlt3756)](https://solved.ac/sjnlt3756/)
-
 ---
 
 ## 🧠 BaekJoon
