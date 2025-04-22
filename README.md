@@ -30,7 +30,7 @@
 ## 📫 연락처
 
 - Email: sjnltt3756@gmail.com
-- Blog: [https://your-blog.com]([https://your-blog.com](https://velog.io/@sjnltt3756/posts))
+- Blog: [[https://your-blog.com]([https://your-blog.com](https://velog.io/@sjnltt3756/posts))](https://velog.io/@sjnltt3756/posts)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjnltt3756&show_icons=true&theme=radical)
 
