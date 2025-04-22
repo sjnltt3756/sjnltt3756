@@ -29,6 +29,14 @@
 
 ---
 
+## 🧠 BaekJoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjnlt3756)](https://solved.ac/sjnlt3756/)
+
+> 꾸준히 알고리즘 문제를 풀며 문제 해결 능력을 향상시키고 있습니다 💪
+
+---
+
 ## 📫 연락처
 
 - Email: sjnltt3756@gmail.com
